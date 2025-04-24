@@ -21,15 +21,11 @@ Welcome to the official repository of **Vajra Enterprises' Solar & Renewable Sys
 - **Styling**: TailwindCSS + MUI
 - **Backend**: Node.js + Express
 - **Database**: MongoDB (Mongoose)
-- **Deployment**: [Add deployment link if any]
-
 ---
 
 ## 🚀 Getting Started
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/VE.1.git
 cd VE.1
 
 # Install dependencies
