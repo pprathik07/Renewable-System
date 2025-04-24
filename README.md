@@ -1,4 +1,4 @@
-# ⚡ VE.1 - Vajra Enterprises | Solar & Renewable System
+# RENEWABLE SYSTEMS
 
 Welcome to the official repository of **Vajra Enterprises' Solar & Renewable System** — a modern web application designed to showcase and manage sustainable energy solutions.
 
